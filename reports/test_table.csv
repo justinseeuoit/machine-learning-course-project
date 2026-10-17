@@ -1,0 +1,4 @@
+Model,Accuracy,Balanced Acc,Macro Prec,Macro Recall,Macro F1,Weighted F1
+Naive (majority class),0.173,0.1667,0.0288,0.1667,0.0492,0.051
+Naive (stratified random),0.166,0.1654,0.1651,0.1654,0.1652,0.1657
+Logistic Regression,0.175,0.1748,0.1782,0.1748,0.1742,0.1743
