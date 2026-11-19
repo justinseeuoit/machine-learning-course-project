@@ -1,0 +1,7 @@
+run_id,model,best_cv_macro_f1,best_cv_macro_f1_std,best_cv_train_macro_f1,n_iter,search_seconds,best_params
+S07-06,HistGradientBoosting,0.17892287593800368,0.015168682675788126,0.4911086013452584,30,19.039196729660034,"{""model__l2_regularization"": 0.0009853225172032562, ""model__learning_rate"": 0.010189592979395137, ""model__max_depth"": 5, ""model__max_iter"": 180, ""model__max_leaf_nodes"": 14, ""model__min_samples_leaf"": 44}"
+S07-04,Random Forest,0.17801307099895972,0.009732870895456077,0.9978107666486521,30,34.09834861755371,"{""model__max_depth"": 20, ""model__max_features"": ""sqrt"", ""model__min_samples_leaf"": 1, ""model__min_samples_split"": 13, ""model__n_estimators"": 513}"
+S07-01,Logistic Regression,0.1665974858647302,0.0097335886190624,0.21020193789136637,30,1.3724098205566406,"{""model__C"": 0.19069966103000435, ""model__solver"": ""lbfgs""}"
+S07-05,Extra Trees,0.16588436991572517,0.013551675185337795,0.9883840862988086,30,9.342472553253174,"{""model__max_depth"": 20, ""model__max_features"": ""sqrt"", ""model__min_samples_leaf"": 4, ""model__min_samples_split"": 6, ""model__n_estimators"": 430}"
+S07-02,Linear SVM,0.16451184949958078,0.00948591214583715,0.20785742253869405,30,1.1506867408752441,"{""model__C"": 56.69849511478853}"
+S07-03,RBF SVM,0.15855043821754652,0.01616578412537575,1.0,30,7.960854530334473,"{""model__C"": 72.86653737491046, ""model__gamma"": 1.1015056790269626}"
