@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-20T20:11:44",
-  "python": "3.13.9",
-  "platform": "Windows-11-10.0.26300-SP0",
-  "numpy": "2.4.4",
-  "pandas": "3.0.0",
-  "scikit-learn": "1.7.2",
+  "timestamp": "2026-11-21T11:59:52",
+  "python": "3.14.3",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "numpy": "2.5.3",
+  "pandas": "3.0.6",
+  "scikit-learn": "1.9.1",
   "seed": 42,
   "final_seeds": [
     42,
@@ -15,7 +15,7 @@
   ],
   "cv_folds": 5,
   "tuning_trials_per_model": 30,
-  "git_commit": "985605e",
+  "git_commit": "cd55213",
   "split_protocol": "64/16/20; stratified; random_state=42",
   "test_set_previously_evaluated_in_prior_stage": true
 }
