@@ -1,0 +1,28 @@
+model,perturbation,level,macro_f1_mean,macro_f1_std
+RBF SVM,Gaussian noise,0.0,0.17738617763589848,0.0
+RBF SVM,Gaussian noise,0.1,0.17400233852345104,0.008277702299418906
+RBF SVM,Gaussian noise,0.25,0.16664923639043408,0.008091351889533707
+RBF SVM,Gaussian noise,0.5,0.15790187769569675,0.011873140169118805
+RBF SVM,Gaussian noise,1.0,0.13956920677704296,0.015047305924601281
+RBF SVM,Missing numeric values (fraction),0.0,0.17738617763589848,0.0
+RBF SVM,Missing numeric values (fraction),0.1,0.17515878567445037,0.008079127093905146
+RBF SVM,Missing numeric values (fraction),0.2,0.17186915567077848,0.009883745120235847
+RBF SVM,Missing numeric values (fraction),0.4,0.16721604989094954,0.013384177076090402
+HistGradientBoosting,Gaussian noise,0.0,0.17656360494861387,0.0
+HistGradientBoosting,Gaussian noise,0.1,0.1725048324496195,0.007661057561740602
+HistGradientBoosting,Gaussian noise,0.25,0.17226257920125815,0.010296308168248775
+HistGradientBoosting,Gaussian noise,0.5,0.16480805811741378,0.015807217745799455
+HistGradientBoosting,Gaussian noise,1.0,0.164903561585944,0.012758170450645128
+HistGradientBoosting,Missing numeric values (fraction),0.0,0.17656360494861387,0.0
+HistGradientBoosting,Missing numeric values (fraction),0.1,0.17608546448929197,0.007432797614101373
+HistGradientBoosting,Missing numeric values (fraction),0.2,0.1694606621894619,0.007470214377185405
+HistGradientBoosting,Missing numeric values (fraction),0.4,0.16551856637263385,0.012302490109477255
+Random Forest,Gaussian noise,0.0,0.17332447846416657,0.0
+Random Forest,Gaussian noise,0.1,0.16279365951718022,0.00969839692369977
+Random Forest,Gaussian noise,0.25,0.16756601699331758,0.009922167112192359
+Random Forest,Gaussian noise,0.5,0.16081430023118315,0.00978789483510388
+Random Forest,Gaussian noise,1.0,0.1589564542440205,0.014427098250403673
+Random Forest,Missing numeric values (fraction),0.0,0.17332447846416657,0.0
+Random Forest,Missing numeric values (fraction),0.1,0.17046012052165774,0.007566794641695137
+Random Forest,Missing numeric values (fraction),0.2,0.1633141160578712,0.00803827125488623
+Random Forest,Missing numeric values (fraction),0.4,0.16660300426507585,0.0110338585043291
