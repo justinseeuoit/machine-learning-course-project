@@ -1,34 +1,4 @@
 model,actual,predicted,count
-HistGradientBoosting,calm,angry,41
-HistGradientBoosting,energetic,calm,34
-HistGradientBoosting,calm,energetic,32
-HistGradientBoosting,energetic,romantic,32
-HistGradientBoosting,angry,sad,32
-HistGradientBoosting,happy,calm,32
-HistGradientBoosting,romantic,calm,32
-HistGradientBoosting,sad,calm,32
-HistGradientBoosting,happy,energetic,31
-HistGradientBoosting,romantic,sad,31
-HistGradientBoosting,romantic,happy,30
-HistGradientBoosting,romantic,energetic,29
-HistGradientBoosting,calm,romantic,29
-HistGradientBoosting,angry,calm,28
-HistGradientBoosting,angry,happy,27
-HistGradientBoosting,sad,energetic,27
-HistGradientBoosting,happy,romantic,26
-HistGradientBoosting,happy,sad,26
-HistGradientBoosting,angry,romantic,25
-HistGradientBoosting,energetic,angry,25
-HistGradientBoosting,happy,angry,25
-HistGradientBoosting,sad,happy,24
-HistGradientBoosting,sad,romantic,24
-HistGradientBoosting,romantic,angry,23
-HistGradientBoosting,sad,angry,22
-HistGradientBoosting,energetic,happy,22
-HistGradientBoosting,angry,energetic,21
-HistGradientBoosting,calm,happy,20
-HistGradientBoosting,calm,sad,18
-HistGradientBoosting,energetic,sad,18
 RBF SVM,happy,romantic,44
 RBF SVM,energetic,romantic,40
 RBF SVM,romantic,angry,34
@@ -59,6 +29,36 @@ RBF SVM,angry,sad,20
 RBF SVM,happy,energetic,20
 RBF SVM,happy,sad,20
 RBF SVM,romantic,sad,20
+HistGradientBoosting,calm,angry,38
+HistGradientBoosting,energetic,calm,35
+HistGradientBoosting,romantic,happy,35
+HistGradientBoosting,angry,calm,34
+HistGradientBoosting,happy,calm,34
+HistGradientBoosting,calm,energetic,33
+HistGradientBoosting,sad,energetic,32
+HistGradientBoosting,happy,sad,31
+HistGradientBoosting,energetic,romantic,31
+HistGradientBoosting,romantic,calm,31
+HistGradientBoosting,sad,calm,30
+HistGradientBoosting,energetic,angry,30
+HistGradientBoosting,angry,sad,29
+HistGradientBoosting,happy,energetic,29
+HistGradientBoosting,romantic,energetic,28
+HistGradientBoosting,sad,romantic,27
+HistGradientBoosting,calm,romantic,27
+HistGradientBoosting,romantic,angry,27
+HistGradientBoosting,romantic,sad,26
+HistGradientBoosting,happy,angry,25
+HistGradientBoosting,sad,angry,24
+HistGradientBoosting,angry,happy,24
+HistGradientBoosting,calm,sad,23
+HistGradientBoosting,happy,romantic,23
+HistGradientBoosting,energetic,happy,23
+HistGradientBoosting,angry,energetic,22
+HistGradientBoosting,sad,happy,22
+HistGradientBoosting,angry,romantic,20
+HistGradientBoosting,energetic,sad,19
+HistGradientBoosting,calm,happy,16
 Random Forest,calm,angry,38
 Random Forest,energetic,calm,37
 Random Forest,happy,romantic,37

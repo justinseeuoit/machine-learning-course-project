@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-21T15:30:01",
+  "timestamp": "2026-11-22T16:06:03",
   "python": "3.13.9",
   "platform": "Windows-11-10.0.26300-SP0",
   "numpy": "2.4.4",
@@ -15,7 +15,7 @@
   ],
   "cv_folds": 5,
   "tuning_trials_per_model": 30,
-  "git_commit": "545585b",
+  "git_commit": "0feea8c",
   "split_protocol": "64/16/20; stratified; random_state=42",
   "test_set_previously_evaluated_in_prior_stage": true
 }
