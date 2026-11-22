@@ -1,0 +1,91 @@
+model,actual,predicted,count
+HistGradientBoosting,calm,angry,41
+HistGradientBoosting,energetic,calm,34
+HistGradientBoosting,calm,energetic,32
+HistGradientBoosting,energetic,romantic,32
+HistGradientBoosting,angry,sad,32
+HistGradientBoosting,happy,calm,32
+HistGradientBoosting,romantic,calm,32
+HistGradientBoosting,sad,calm,32
+HistGradientBoosting,happy,energetic,31
+HistGradientBoosting,romantic,sad,31
+HistGradientBoosting,romantic,happy,30
+HistGradientBoosting,romantic,energetic,29
+HistGradientBoosting,calm,romantic,29
+HistGradientBoosting,angry,calm,28
+HistGradientBoosting,angry,happy,27
+HistGradientBoosting,sad,energetic,27
+HistGradientBoosting,happy,romantic,26
+HistGradientBoosting,happy,sad,26
+HistGradientBoosting,angry,romantic,25
+HistGradientBoosting,energetic,angry,25
+HistGradientBoosting,happy,angry,25
+HistGradientBoosting,sad,happy,24
+HistGradientBoosting,sad,romantic,24
+HistGradientBoosting,romantic,angry,23
+HistGradientBoosting,sad,angry,22
+HistGradientBoosting,energetic,happy,22
+HistGradientBoosting,angry,energetic,21
+HistGradientBoosting,calm,happy,20
+HistGradientBoosting,calm,sad,18
+HistGradientBoosting,energetic,sad,18
+RBF SVM,happy,romantic,44
+RBF SVM,energetic,romantic,40
+RBF SVM,romantic,angry,34
+RBF SVM,calm,romantic,34
+RBF SVM,angry,romantic,33
+RBF SVM,sad,calm,33
+RBF SVM,romantic,calm,32
+RBF SVM,angry,calm,31
+RBF SVM,calm,happy,30
+RBF SVM,energetic,calm,30
+RBF SVM,angry,happy,29
+RBF SVM,sad,romantic,29
+RBF SVM,happy,angry,29
+RBF SVM,happy,calm,28
+RBF SVM,sad,angry,28
+RBF SVM,sad,happy,27
+RBF SVM,romantic,energetic,27
+RBF SVM,romantic,happy,26
+RBF SVM,energetic,angry,26
+RBF SVM,calm,energetic,24
+RBF SVM,energetic,sad,23
+RBF SVM,energetic,happy,22
+RBF SVM,sad,energetic,21
+RBF SVM,calm,sad,21
+RBF SVM,calm,angry,21
+RBF SVM,angry,energetic,21
+RBF SVM,angry,sad,20
+RBF SVM,happy,energetic,20
+RBF SVM,happy,sad,20
+RBF SVM,romantic,sad,20
+Random Forest,calm,angry,38
+Random Forest,energetic,calm,37
+Random Forest,happy,romantic,37
+Random Forest,calm,romantic,35
+Random Forest,romantic,calm,32
+Random Forest,angry,romantic,32
+Random Forest,sad,angry,31
+Random Forest,angry,calm,30
+Random Forest,sad,calm,29
+Random Forest,sad,romantic,28
+Random Forest,sad,happy,28
+Random Forest,happy,calm,28
+Random Forest,angry,happy,28
+Random Forest,energetic,romantic,27
+Random Forest,sad,energetic,27
+Random Forest,romantic,energetic,27
+Random Forest,romantic,sad,26
+Random Forest,happy,energetic,26
+Random Forest,energetic,angry,26
+Random Forest,energetic,happy,26
+Random Forest,romantic,angry,26
+Random Forest,happy,angry,25
+Random Forest,romantic,happy,25
+Random Forest,angry,energetic,23
+Random Forest,calm,energetic,22
+Random Forest,angry,sad,22
+Random Forest,energetic,sad,22
+Random Forest,calm,happy,21
+Random Forest,calm,sad,19
+Random Forest,happy,sad,18
