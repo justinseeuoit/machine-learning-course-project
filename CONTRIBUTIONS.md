@@ -5,7 +5,8 @@ Jerred Bueckert (100655176, JerredBueckert)
 - Sections 4.4-4.7 of Results and Experiment Log document, and the second table of Part B
 
 Mohammad Hossinzehi (100874512, MohammadHossinzehi)
-- 
+- sections 2.1-2.7 of 1.0-eda.ipynb
+- sections 5, 6 for 3.0-experiments.ipynb
 
 Justin See (100865485, justinseeuoit)
 - Selected the dataset
